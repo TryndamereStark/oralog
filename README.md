@@ -4,7 +4,6 @@
 ```shell
 ./oralog.sh install
 ```
-
 ###run
 ```shell
 logred red
