@@ -1,4 +1,5 @@
 #shell颜色输出
+
 ###install
 ```shell
 ./oralog.sh install
