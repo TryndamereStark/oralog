@@ -6,5 +6,6 @@ logred red
 loggreen green
 logyellow yellow
 logwhite white
+logblue blue
 ```
 
