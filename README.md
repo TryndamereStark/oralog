@@ -2,7 +2,7 @@
 
 ###install
 ```shell
-./oralog.sh install
+sudo ./oralog.sh install
 
 ```
 ###run
