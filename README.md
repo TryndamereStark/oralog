@@ -1,4 +1,4 @@
-#shell颜色输出
+# shell颜色输出,可替代echo命令
 
 ### install
 ```shell
